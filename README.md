@@ -27,4 +27,6 @@ Clone the repository, follow [these steps](https://discordpy.readthedocs.io/en/l
 
 Be sure to provide a valid token in a seperate .env file (in the same directory as the rest of the code) in this format: 
   
-  TOKEN=asd;lkfjk21423
+  TOKEN=token_string
+  
+i.e no spaces or quotes after the word TOKEN  
