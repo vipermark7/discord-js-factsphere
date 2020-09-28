@@ -9,9 +9,13 @@ This bot was written for a demo for a talk I will be giving at The JavaScript Cl
 Examples: 
 
    !fact
+   
    The average life expectancy of a rhinoceros in captivity is 15 years.
   
   !moarfacts 3
+  
   This situation is hopeless.
+  
   According to Norse legend, thunder god Thor's chariot was pulled across the sky by two goats.
+  
   The Fact Sphere is a good person, whose insights are relevant.
