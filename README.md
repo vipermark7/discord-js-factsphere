@@ -6,7 +6,7 @@ Note that the bot needs a token to run. This comes from the "General Information
 
 This bot was written for a demo for a talk I will be giving at The JavaScript Club in Cleveland.
 
-* Examples: 
+Examples: 
     !fact
     The average life expectancy of a rhinoceros in captivity is 15 years.
   
