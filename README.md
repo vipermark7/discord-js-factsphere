@@ -6,7 +6,7 @@ Note that the bot needs a token to run. This comes from the "General Information
 
 This bot was written for a demo for a talk I will be giving at The JavaScript Club in Cleveland.
 
-# Examples: 
+## Examples: 
 
    **!fact**
    
@@ -20,11 +20,11 @@ This bot was written for a demo for a talk I will be giving at The JavaScript Cl
   
   The Fact Sphere is a good person, whose insights are relevant.
 
-# To run: 
+## To run: 
 Clone the repository, follow [these steps](https://discordpy.readthedocs.io/en/latest/discord.html), and run the bot by changing into the right directory and typing:
 
   node bot.js
 
-after providing a valid token in a seperate .env file (in the same directory as the rest of the code) in this format: 
+Be sure to provide a valid token in a seperate .env file (in the same directory as the rest of the code) in this format: 
   
   TOKEN=asd;lkfjk21423
