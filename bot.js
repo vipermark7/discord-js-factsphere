@@ -3,9 +3,10 @@ const fs = require('fs');
 const {split, sample} = require('lodash');
 const lineReader = require('line-reader');
 
+// getting the stuff from my secret .env file, and putting it into TOKEN
 require('dotenv').config();
-
 const TOKEN = process.env.TOKEN;
+
 const file = '/home/spacey/Desktop/parsedfacts.txt';
 const bot = new discord.Client();
 
